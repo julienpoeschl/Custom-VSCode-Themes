@@ -1,4 +1,6 @@
-# hedgehog README
+# Hedgehog README
+
+My personal custom vscode theme named after my favourite animal, the hedgehog.
 
 ## Working with Markdown
 
