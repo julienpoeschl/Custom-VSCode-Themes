@@ -1,6 +1,8 @@
-# Hedgehog README
+# README
 
-My personal custom vscode theme named after my favourite animal, the hedgehog.
+My personal custom vscode themes.
+
+Currently contains the following custom themes: Hedgehog.
 
 ## Working with Markdown
 
