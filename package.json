@@ -1,0 +1,21 @@
+{
+  "name": "hedgehog",
+  "displayName": "Hedgehog",
+  "description": "A custom version of Monokai Dimmed, since my friends always make fun of that theme when they see it",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.102.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Hedgehog",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Hedgehog-color-theme.json"
+      }
+    ]
+  }
+}
