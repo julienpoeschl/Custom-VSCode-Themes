@@ -1,7 +1,7 @@
 {
-  "name": "hedgehog",
-  "displayName": "Hedgehog",
-  "description": "A custom version of Monokai Dimmed, since my friends always make fun of that theme when they see it",
+  "name": "custom-vscode-themes",
+  "displayName": "Custom Visual Studio Code Themes",
+  "description": "A collection of custom themes for vscode featuring an alternative to Monokai Dimmed, since my friends always make fun of that theme when they see it",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.102.0"
@@ -12,9 +12,24 @@
   "contributes": {
     "themes": [
       {
-        "label": "Hedgehog",
+        "label": "Hedgehog (Custom)",
         "uiTheme": "vs-dark",
-        "path": "./themes/Hedgehog-color-theme.json"
+        "path": "./themes/Hedgehog.json"
+      },
+      {
+        "label": "Hedgehog Radioactive (Custom)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Hedgehog-Radioactive.json"
+      },
+      {
+        "label": "Minimal Kiwi (Copy)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Minimal-Kiwi.json"
+      },
+      {
+        "label": "Monokai Dimmed (Copy)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Monokai-Dimmed.json"
       }
     ]
   }
