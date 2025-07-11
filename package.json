@@ -2,7 +2,20 @@
   "name": "custom-vscode-themes",
   "displayName": "Custom Visual Studio Code Themes",
   "description": "A collection of custom themes for vscode featuring an alternative to Monokai Dimmed, since my friends always make fun of that theme when they see it",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "publisher": "julienpoeschl",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/julienpoeschl/Custom-VisualStudioCode-Themes.git"
+  },
+  "keywords": [
+    "theme",
+    "themes",
+    "dark",
+    "dark theme",
+    "Hedgehog",
+    "hedgehog"
+  ],
   "engines": {
     "vscode": "^1.102.0"
   },
@@ -20,16 +33,6 @@
         "label": "Hedgehog Radioactive (Custom)",
         "uiTheme": "vs-dark",
         "path": "./themes/Hedgehog-Radioactive.json"
-      },
-      {
-        "label": "Minimal Kiwi (Copy)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Minimal-Kiwi.json"
-      },
-      {
-        "label": "Monokai Dimmed (Copy)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Monokai-Dimmed.json"
       }
     ]
   }
