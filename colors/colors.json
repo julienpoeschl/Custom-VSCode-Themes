@@ -1,0 +1,54 @@
+{
+    "monokai-dimmed-new":
+    {
+        "vscode":
+        {
+            "titlebar": "#353535",
+            "sidebar": "#272727",
+            "activitybar": "#353535",
+            "terminal": "#272727",
+            "statusbar": "#272727",
+            "menu": "#272727",
+            "panel": "#272727"
+        },
+    
+        "code":
+        {
+            "keywoard.control": "#A459BA",
+            "storage": "#A459BA",
+            "function": "#E07204",
+            "variable": "#6089B4",
+            "class": "#CF3C4B",
+            "module": "#CF3C4B",
+            "meta": "#C5C8C6",
+            "comment": "#E0FFA64B"
+        }
+    },
+    "hedgehog":
+    {
+        "vscode":
+        {
+            "titlebar": "#353535",
+            "sidebar": "#534439",
+            "activitybar": "#353535",
+            "terminal": "#534439",
+            "statusbar": "#534439",
+            "menu": "#534439",
+            "panel": "#534439"
+        },
+    
+        "code":
+        {
+            "keywoard.control": "#bba89c",
+            "storage": "#534439",
+            "function": "#E07204",
+            "variable": "#6089B4",
+            "class": "#CF3C4B",
+            "module": "#CF3C4B",
+            "meta": "#C5C8C6",
+            "comment": "#E0FFA64B",
+            "constant": "#6089B4"
+        }
+    }
+
+}
