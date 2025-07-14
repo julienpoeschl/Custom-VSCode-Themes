@@ -30,9 +30,9 @@
         "path": "./themes/Hedgehog.json"
       },
       {
-        "label": "Hedgehog Radioactive (Custom)",
+        "label": "Monokai Dimmed New (Custom)",
         "uiTheme": "vs-dark",
-        "path": "./themes/Hedgehog-Radioactive.json"
+        "path": "./themes/MonokaiDimmedNew.json"
       }
     ]
   }
