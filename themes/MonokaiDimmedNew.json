@@ -14,18 +14,25 @@
 		"editor.selectionBackground": "#676b7180",
 		"minimap.selectionHighlight": "#676b7180",
 		"editor.selectionHighlightBackground": "#575b6180",
+
+		// Selected line
 		"editor.lineHighlightBackground": "#303030",
-		"editorLineNumber.activeForeground": "#949494",
+		"editorLineNumber.activeForeground": "#fff",
+
 		"editor.wordHighlightBackground": "#4747a180",
 		"editor.wordHighlightStrongBackground": "#6767ce80",
 		"editorCursor.foreground": "#c07020",
 		"editorWhitespace.foreground": "#505037",
 		"editorIndentGuide.background1": "#505037",
 		"editorIndentGuide.activeBackground1": "#707057",
+		
+		// Tabs
 		"tab.inactiveBackground": "#404040",
 		"tab.border": "#303030",
 		"tab.inactiveForeground": "#d8d8d8",
 		"tab.lastPinnedBorder": "#505050",
+
+
 		"peekView.border": "#3655b5",
 
 		// Panel title
@@ -92,7 +99,25 @@
 
 		// Panel
 		"panel.background": "#272727",
-		"panel.border": "#3655b5"
+		"panel.border": "#3655b5",
+
+
+		// Diagnostic underlines
+		"editorError.foreground": "#FF5555",
+		"editorWarning.foreground": "#FFCC00",
+		"editorInfo.foreground": "#00BFFF",
+		"editorHint.foreground": "#66FF66",
+
+		// Gutter icons
+		"editorGutter.modifiedBackground": "#ff9800",
+		"editorGutter.addedBackground": "#4CAF50",
+		"editorGutter.deletedBackground": "#f44336",
+
+		// Diagnostic icons
+		"editorGutter.errorForeground": "#FF5555",
+		"editorGutter.warningForeground": "#FFCC00",
+		"editorGutter.infoForeground": "#00BFFF"
+
 	},
 	"tokenColors": [
 		{
@@ -207,7 +232,7 @@
 			"scope": "entity.name.function",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#e07204" // Custom
+				"foreground": "#d68824" // Custom
 			}
 		},
 		{
@@ -667,6 +692,13 @@
 			"scope": "variable.language",
 			"settings": {
 				"foreground": "#c7444a"
+			}
+		},
+		{
+			"name": "other",
+			"scope": "source.python",
+			"settings": {
+				"foreground": "#dbdbd0"
 			}
 		}
 	],
