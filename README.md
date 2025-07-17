@@ -16,6 +16,6 @@ To download a local version of this theme vscode extension you need to follow th
 
   4. You can now set themes from this extension.
 
-
+&nbsp;
 
 **Enjoy!**
