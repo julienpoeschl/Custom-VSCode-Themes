@@ -174,7 +174,7 @@
 			"scope": "constant.numeric",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#6089B4" // Custom
+				"foreground": "#6089B4"
 			}
 		},
 		{
@@ -206,7 +206,7 @@
 			"scope": "storage",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#534439" // Custom
+				"foreground": "#a459ba" // Custom
 			}
 		},
 		{
@@ -214,7 +214,7 @@
 			"scope": "entity.name.class, entity.name.type, entity.name.namespace, entity.name.scope-resolution",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#00a949" // Custom
+				"foreground": "#cf3c4b" // Custom
 			}
 		},
 		{
@@ -233,7 +233,7 @@
 			"scope": "entity.name.function",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#ba5300" // Custom
+				"foreground": "#d68824" // Custom
 			}
 		},
 		{
@@ -241,7 +241,7 @@
 			"scope": "variable.parameter",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#007317" // Custom
+				"foreground": "#6089B4" // Custom
 			}
 		},
 		{
@@ -265,7 +265,7 @@
 			"scope": "variable.other, variable.js, punctuation.separator.variable",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#bd8700" // Custom
+				"foreground": "#6089B4" // Custom
 			}
 		},
 		{
@@ -312,7 +312,7 @@
 			],
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#bba89c" // Custom
+				"foreground": "#a459ba" // Custom
 			}
 		},
 		{
@@ -693,6 +693,13 @@
 			"scope": "variable.language",
 			"settings": {
 				"foreground": "#c7444a"
+			}
+		},
+		{
+			"name": "other",
+			"scope": "source.python",
+			"settings": {
+				"foreground": "#C5C8C6"
 			}
 		}
 	],
