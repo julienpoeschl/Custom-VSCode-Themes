@@ -4,6 +4,8 @@ Currently contains the following custom themes:
   1. Hedgehog
   2. Monokai Dimmed New
 
+&nbsp;
+
 **Installation**
 
 To download a local version of this theme vscode extension you need to follow these steps:
