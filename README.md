@@ -4,7 +4,9 @@
 
 Currently contains the following custom themes:
   1. Hedgehog
-  2. Monokai Dimmed New
+     *Dark and cozy featuring green*
+  3. Monokai Dimmed New
+     *Personalized version of Monokai Dimmed featuring custom code colors*
 
 &nbsp;
 
