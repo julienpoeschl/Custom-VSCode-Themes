@@ -698,7 +698,7 @@
 			"name": "other",
 			"scope": "source.python",
 			"settings": {
-				"foreground": "#dbdbd0"
+				"foreground": "#C5C8C6"
 			}
 		}
 	],

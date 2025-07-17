@@ -22,11 +22,7 @@
 		"editorWhitespace.foreground": "#505037",
 		"editorIndentGuide.background1": "#505037",
 		"editorIndentGuide.activeBackground1": "#707057",
-		"tab.inactiveBackground": "#404040",
-		"tab.border": "#303030",
-		"tab.inactiveForeground": "#d8d8d8",
-		"tab.lastPinnedBorder": "#505050",
-		"peekView.border": "#3655b5",
+		"peekView.border": "#86B42B",
 
 		// Panel title
 		"panelTitle.activeForeground": "#ffffff",
@@ -35,27 +31,29 @@
 		"statusBar.background": "#272727",
 		"statusBar.debuggingBackground": "#505050",
 		"statusBar.noFolderBackground": "#505050",
-		"statusBarItem.remoteBackground": "#3655b5",
+		"statusBarItem.remoteBackground": "#86B42B",
 
 		// Title bar
 		"titleBar.activeBackground": "#353535",
-		"titleBar.inactiveBackground": "#333333",
+		"titleBar.inactiveBackground": "#353535",
+		"titleBar.activeForeground": "#86B42B",
+		"titlebar.inactiveForeground": "#86B42B",
 
 		"ports.iconRunningProcessForeground": "#CCCCCC",
 
 		// Activity bar
 		"activityBar.background": "#353535",
-		"activityBar.foreground": "#ffffff",
-		"activityBarBadge.background": "#3655b5",
+		"activityBar.foreground": "#86B42B",
+		"activityBarBadge.background": "#86B42B",
 
 		// Unsaved label
-		"badge.background": "#3655b5",
+		"badge.background": "#86B42B",
   		"badge.foreground": "#FFFFFF",
 		
 		// Side bar
 		"sideBar.background": "#272727",
 		"sideBarSectionHeader.background": "#505050",
-		"sideBar.border": "#3655b5",
+		"sideBar.border": "#505050",
 		
 		// Menu
 		"menu.background": "#272727",
@@ -65,10 +63,10 @@
 		"pickerGroup.foreground": "#b0b0b0",
 
 		// Input and checkboxes
-		"inputOption.activeBorder": "#3655b5",
+		"inputOption.activeBorder": "#86B42B",
 
 		// Border of focused/selected ui element
-		"focusBorder": "#3655b5",
+		"focusBorder": "#86B42B",
 		
 		// Terminal
 		"terminal.ansiBlack": "#1e1e1e",
@@ -89,10 +87,38 @@
 		"terminal.ansiBrightWhite": "#f8f8f2",
 		"terminal.inactiveSelectionBackground": "#676b7140",
 		"terminal.background": "#272727",
+		"terminal.border": "#505050",
 
 		// Panel
 		"panel.background": "#272727",
-		"panel.border": "#3655b5"
+		"panel.border": "#505050",
+
+		// Run/Debug button
+		"debugIcon.startForeground": "#4CAF50",
+		"debugToolBar.background": "#1E1E1E",
+
+		// Split editor right button
+		
+
+		// Tabs
+		"tab.activeModifiedBorder": "#FFCC00",    // For unsaved file mark
+		"tab.inactiveModifiedBorder": "#505050",
+		"tab.activeBorder": "#86B42B",            // Line below tab
+		"tab.activeBorderTop": "#505050",         // Optional top line
+		"tab.activeBackground": "#1E1E1E",
+		"tab.inactiveBackground": "#404040",
+		"tab.border": "#505050",						// Left and right border
+		"tab.inactiveForeground": "#d8d8d8",
+		"tab.lastPinnedBorder": "#505050",
+
+		// Editorgroup
+		"editorGroupHeader.foreground": "#000",
+		"editorGroupHeader.tabsBorder": "#444444",
+		"editorGroup.border": "#555555",
+
+		// Icons
+		"icon.foreground": "#86B42B"
+
 	},
 	"tokenColors": [
 		{
