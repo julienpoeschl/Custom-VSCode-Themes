@@ -1,17 +1,29 @@
 # README
 
-My personal custom vscode themes.
+**Themes**
 
-Currently contains the following custom themes: Hedgehog, Monokai Dimmed New (an alternative version of the theme Monokai Dimmed by Microsoft).
+Currently contains the following custom themes:
+  1. Hedgehog
+     
+     *Dark and cozy featuring green*
+  3. Monokai Dimmed New
+     
+     *Personalized version of Monokai Dimmed (provided by Microsoft) featuring custom code colors*
 
-To download a local version of this theme vscode extension you need to follow these steps:
+&nbsp;
 
-1. Install vsce using `npm install -g vsce`.
+**Installation**
 
-2. In a terminal, go to this project directory and package the extension with `vsce package`. Enter `y` to bypass missing file errors. This should create a `custom-vscode-themes-1.0.0.vsix` in the project directory.
+To download a local version of this theme vscode extension you need to follow these steps [windows]:
 
-3. You can now use `code --install-extension custom-vscode-themes-1.0.0.vsix` to add this extension to your local vscode.
+  1. Install vsce using `npm install -g vsce` in a terminal.
 
-4. You can now set themes from this extension.
+  2. Then, go to this project's directory and package the extension with `vsce package`. Enter `y` to bypass missing file errors. This should result in a `custom-vscode-themes-1.0.0.vsix` in the project directory.
+
+  3. You can now use `code --install-extension custom-vscode-themes-1.0.0.vsix` to add this extension to your local vscode.
+
+  4. You can now set themes from this extension.
+
+&nbsp;
 
 **Enjoy!**
