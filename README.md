@@ -2,7 +2,7 @@
 
 My personal custom vscode themes.
 
-Currently contains the following custom themes: Hedgehog, Monokai Dimmed New.
+Currently contains the following custom themes: Hedgehog, Monokai Dimmed New (an alternative version of the theme Monokai Dimmed by Microsoft).
 
 To download a local version of this theme vscode extension you need to follow these steps:
 
