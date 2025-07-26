@@ -2,9 +2,11 @@
 
 Currently contains the following custom themes:
   1. Hedgehog ([Preview]())
+
      *Dark and cozy featuring green*
      
-  3. Monokai Dimmed New ([Preview]())
+  2. Monokai Dimmed New ([Preview]())
+     
      *Personalized version of Monokai Dimmed (provided by Microsoft) featuring custom code colors*
 
 &nbsp;
