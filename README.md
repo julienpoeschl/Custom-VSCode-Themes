@@ -1,6 +1,4 @@
-# README
-
-**Themes**
+# Themes
 
 Currently contains the following custom themes:
   1. Hedgehog
@@ -12,7 +10,7 @@ Currently contains the following custom themes:
 
 &nbsp;
 
-**Installation**
+# Installation
 
 To download a local version of this theme vscode extension you need to follow these steps [windows]:
 
