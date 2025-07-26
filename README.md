@@ -1,18 +1,21 @@
 # Themes
 
 Currently contains the following custom themes:
-  1. Hedgehog
-     
+  1. Hedgehog ([Preview]())
      *Dark and cozy featuring green*
-  3. Monokai Dimmed New
      
+  3. Monokai Dimmed New ([Preview]())
      *Personalized version of Monokai Dimmed (provided by Microsoft) featuring custom code colors*
 
 &nbsp;
 
 # Installation
 
-### 🛠️ Windows
+### Prerequisites
+
+You need to have [Visual Studio Code](https://code.visualstudio.com) installed.
+
+### Windows
 
 To download a local version of this theme vscode extension you need to follow these steps:
 
