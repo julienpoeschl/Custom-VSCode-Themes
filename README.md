@@ -12,7 +12,9 @@ Currently contains the following custom themes:
 
 # Installation
 
-To download a local version of this theme vscode extension you need to follow these steps [windows]:
+### 🛠️ Windows
+
+To download a local version of this theme vscode extension you need to follow these steps:
 
   1. Install vsce using `npm install -g vsce` in a terminal.
 
