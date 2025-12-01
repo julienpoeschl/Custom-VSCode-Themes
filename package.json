@@ -20,6 +20,11 @@
         "label": "Monokai Dimmed New",
         "uiTheme": "vs-dark",
         "path": "./themes/MonokaiDimmedNew.json"
+      },
+      {
+        "label": "Shark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Shark.json"
       }
     ]
   },
