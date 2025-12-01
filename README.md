@@ -10,6 +10,7 @@ Currently contains the following custom themes:
   2. Shark ([Preview]())
 
      *Dark coral reef for deep focus*
+     Currently only a modified version of [Gruvbox Material Dark](https://github.com/sainnhe/gruvbox-material-vscode.git).
      
   4. Monokai Dimmed New ([Preview]())
      
