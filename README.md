@@ -6,8 +6,13 @@ Currently contains the following custom themes:
   1. Hedgehog ([Preview]())
 
      *Dark and cozy featuring green*
+
+  2. Shark ([Preview]())
+
+     *Dark coral reef for deep focus*
+     Currently only a modified version of [Gruvbox Material Dark](https://github.com/sainnhe/gruvbox-material-vscode.git).
      
-  2. Monokai Dimmed New ([Preview]())
+  4. Monokai Dimmed New ([Preview]())
      
      *Personalized version of Monokai Dimmed (provided by Microsoft) featuring custom code colors*
 
