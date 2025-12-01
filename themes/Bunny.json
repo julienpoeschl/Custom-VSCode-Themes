@@ -1,5 +1,5 @@
 {
-  "name": "Shark",
+  "name": "Bunny",
   "type": "dark",
   "semanticHighlighting": true,
   "semanticTokenColors": {
@@ -36,7 +36,7 @@
     "widget.shadow": "#00000070",
     "selection.background": "#504945d0",
     "descriptionForeground": "#928374",
-    "errorForeground": "#a9b665",
+    "errorForeground": "#d3869b",
     "icon.foreground": "#89b482",
     "textLink.foreground": "#a9b665",
     "textLink.activeForeground": "#8f9a52",
@@ -62,7 +62,7 @@
     "input.foreground": "#d4be98",
     "input.placeholderForeground": "#7c6f64",
     "inputOption.activeBorder": "#89b482",
-    "inputValidation.errorBorder": "#a9b665",
+    "inputValidation.errorBorder": "#d3869b",
     "inputValidation.errorBackground": "#b85651",
     "inputValidation.errorForeground": "#d4be98",
     "inputValidation.infoBorder": "#7daea3",
@@ -90,7 +90,7 @@
     "list.hoverForeground": "#d4be98",
     "list.hoverBackground": "#29282800",
     "list.invalidItemForeground": "#b85651",
-    "list.errorForeground": "#a9b665",
+    "list.errorForeground": "#d3869b",
     "list.warningForeground": "#d8a657",
     "tree.indentGuidesStroke": "#7c6f64",
     "activityBar.border": "#292828",
@@ -164,7 +164,7 @@
     "editor.foldBackground": "#45403d80",
     "editorBracketMatch.border": "#29282800",
     "editorBracketMatch.background": "#7c6f6480",
-    "editorBracketHighlight.foreground1": "#a9b665",
+    "editorBracketHighlight.foreground1": "#d3869b",
     "editorBracketHighlight.foreground2": "#d8a657",
     "editorBracketHighlight.foreground3": "#a9b665",
     "editorBracketHighlight.foreground4": "#7daea3",
@@ -180,13 +180,13 @@
     "editorOverviewRuler.modifiedForeground": "#68948aa0",
     "editorOverviewRuler.addedForeground": "#8f9a52a0",
     "editorOverviewRuler.deletedForeground": "#b85651a0",
-    "editorOverviewRuler.errorForeground": "#a9b665",
+    "editorOverviewRuler.errorForeground": "#d3869b",
     "editorOverviewRuler.warningForeground": "#d8a657",
     "editorOverviewRuler.infoForeground": "#d3869b",
     "editorOverviewRuler.currentContentForeground": "#68948a",
     "editorOverviewRuler.incomingContentForeground": "#72966c",
     "editorOverviewRuler.commonContentForeground": "#928374",
-    "problemsErrorIcon.foreground": "#a9b665",
+    "problemsErrorIcon.foreground": "#d3869b",
     "problemsWarningIcon.foreground": "#d8a657",
     "problemsInfoIcon.foreground": "#7daea3",
     "editorUnnecessaryCode.border": "#292828",
@@ -245,13 +245,13 @@
     "terminal.ansiBrightCyan": "#89b482",
     "terminal.ansiBrightGreen": "#a9b665",
     "terminal.ansiBrightMagenta": "#d3869b",
-    "terminal.ansiBrightRed": "#a9b665",
+    "terminal.ansiBrightRed": "#d3869b",
     "terminal.ansiBrightWhite": "#ddc7a1",
     "terminal.ansiBrightYellow": "#d8a657",
     "terminal.ansiCyan": "#89b482",
     "terminal.ansiGreen": "#a9b665",
     "terminal.ansiMagenta": "#d3869b",
-    "terminal.ansiRed": "#a9b665",
+    "terminal.ansiRed": "#d3869b",
     "terminal.ansiWhite": "#d4be98",
     "terminal.ansiYellow": "#d8a657",
     "debugToolBar.background": "#292828",
@@ -260,15 +260,15 @@
     "debugTokenExpression.string": "#d8a657",
     "debugTokenExpression.boolean": "#d3869b",
     "debugTokenExpression.number": "#d3869b",
-    "debugTokenExpression.error": "#a9b665",
-    "debugIcon.breakpointForeground": "#a9b665",
+    "debugTokenExpression.error": "#d3869b",
+    "debugIcon.breakpointForeground": "#d3869b",
     "debugIcon.breakpointDisabledForeground": "#b85651",
     "debugIcon.breakpointUnverifiedForeground": "#a89984",
     "debugIcon.breakpointCurrentStackframeForeground": "#7daea3",
-    "debugIcon.breakpointStackframeForeground": "#a9b665",
+    "debugIcon.breakpointStackframeForeground": "#d3869b",
     "debugIcon.startForeground": "#89b482",
     "debugIcon.pauseForeground": "#d8a657",
-    "debugIcon.stopForeground": "#a9b665",
+    "debugIcon.stopForeground": "#d3869b",
     "debugIcon.disconnectForeground": "#d3869b",
     "debugIcon.restartForeground": "#89b482",
     "debugIcon.stepOverForeground": "#7daea3",
@@ -278,7 +278,7 @@
     "debugIcon.stepBackForeground": "#7daea3",
     "debugConsole.infoForeground": "#a9b665",
     "debugConsole.warningForeground": "#d8a657",
-    "debugConsole.errorForeground": "#a9b665",
+    "debugConsole.errorForeground": "#d3869b",
     "debugConsole.sourceForeground": "#d3869b",
     "debugConsoleInputIcon.foreground": "#89b482",
     "merge.incomingHeaderBackground": "#72966c80",
@@ -311,7 +311,7 @@
     "statusBarItem.remoteBackground": "#292828",
     "statusBarItem.remoteForeground": "#a89984",
     "statusBarItem.errorBackground": "#292828",
-    "statusBarItem.errorForeground": "#a9b665",
+    "statusBarItem.errorForeground": "#d3869b",
     "statusBarItem.warningBackground": "#292828",
     "statusBarItem.warningForeground": "#d8a657",
     "titleBar.activeBackground": "#292828",
@@ -327,7 +327,7 @@
     "menu.selectionBackground": "#32302f",
     "gitDecoration.addedResourceForeground": "#a9b665a0",
     "gitDecoration.modifiedResourceForeground": "#7daea3a0",
-    "gitDecoration.deletedResourceForeground": "#a9b665a0",
+    "gitDecoration.deletedResourceForeground": "#d3869ba0",
     "gitDecoration.untrackedResourceForeground": "#d8a657a0",
     "gitDecoration.ignoredResourceForeground": "#5a524c",
     "gitDecoration.conflictingResourceForeground": "#d3869ba0",
@@ -339,7 +339,7 @@
     "notifications.foreground": "#d4be98",
     "notifications.background": "#292828",
     "notificationLink.foreground": "#a9b665",
-    "notificationsErrorIcon.foreground": "#a9b665",
+    "notificationsErrorIcon.foreground": "#d3869b",
     "notificationsWarningIcon.foreground": "#d8a657",
     "notificationsInfoIcon.foreground": "#7daea3",
     "extensionButton.prominentForeground": "#292828",
@@ -391,7 +391,7 @@
     "symbolIcon.folderForeground": "#d4be98",
     "symbolIcon.textForeground": "#d4be98",
     "symbolIcon.unitForeground": "#d4be98",
-    "symbolIcon.keywordForeground": "#a9b665",
+    "symbolIcon.keywordForeground": "#d3869b",
     "symbolIcon.operatorForeground": "#e78a4e",
     "symbolIcon.classForeground": "#d8a657",
     "symbolIcon.eventForeground": "#d8a657",
@@ -420,7 +420,7 @@
     "editor.snippetTabstopHighlightBackground": "#45403da0",
     "editor.snippetFinalTabstopHighlightBackground": "#8f9a5240",
     "editor.snippetFinalTabstopHighlightBorder": "#292828",
-    "charts.red": "#a9b665",
+    "charts.red": "#d3869b",
     "charts.orange": "#e78a4e",
     "charts.yellow": "#d8a657",
     "charts.green": "#a9b665",
@@ -435,7 +435,7 @@
     "notebook.cellHoverBackground": "#292828",
     "notebook.outputContainerBackgroundColor": "#32302f",
     "notebookStatusSuccessIcon.foreground": "#a9b665",
-    "notebookStatusErrorIcon.foreground": "#a9b665",
+    "notebookStatusErrorIcon.foreground": "#d3869b",
     "notebookStatusRunningIcon.foreground": "#7daea3",
     "notebook.focusedCellBorder": "#5a524c",
     "notebook.focusedEditorBorder": "#5a524c",
@@ -443,8 +443,8 @@
     "notebook.focusedRowBorder": "#5a524c",
     "notebook.inactiveFocusedCellBorder": "#5a524c",
     "notebook.cellToolbarSeparator": "#5a524c",
-    "testing.iconFailed": "#a9b665",
-    "testing.iconErrored": "#a9b665",
+    "testing.iconFailed": "#d3869b",
+    "testing.iconErrored": "#d3869b",
     "testing.iconPassed": "#89b482",
     "testing.runAction": "#89b482",
     "testing.iconQueued": "#7daea3",
@@ -456,7 +456,7 @@
     "gitlens.trailingLineForegroundColor": "#928374",
     "gitlens.lineHighlightBackgroundColor": "#32302f",
     "gitlens.lineHighlightOverviewRulerColor": "#a89984",
-    "gitlens.closedPullRequestIconColor": "#a9b665",
+    "gitlens.closedPullRequestIconColor": "#d3869b",
     "gitlens.openPullRequestIconColor": "#89b482",
     "gitlens.mergedPullRequestIconColor": "#d3869b",
     "gitlens.unpushlishedChangesIconColor": "#7daea3",
@@ -464,7 +464,7 @@
     "gitlens.unpulledChangesIconColor": "#e78a4e",
     "gitlens.decorations.addedForegroundColor": "#a9b665",
     "gitlens.decorations.copiedForegroundColor": "#d3869b",
-    "gitlens.decorations.deletedForegroundColor": "#a9b665",
+    "gitlens.decorations.deletedForegroundColor": "#d3869b",
     "gitlens.decorations.ignoredForegroundColor": "#a89984",
     "gitlens.decorations.modifiedForegroundColor": "#7daea3",
     "gitlens.decorations.untrackedForegroundColor": "#d8a657",
@@ -474,26 +474,26 @@
     "gitlens.decorations.branchDivergedForegroundColor": "#d8a657",
     "gitlens.decorations.branchUpToDateForegroundColor": "#d4be98",
     "gitlens.decorations.branchUnpublishedForegroundColor": "#7daea3",
-    "gitlens.decorations.branchMissingUpstreamForegroundColor": "#a9b665",
+    "gitlens.decorations.branchMissingUpstreamForegroundColor": "#d3869b",
     "issues.open": "#89b482",
-    "issues.closed": "#a9b665",
+    "issues.closed": "#d3869b",
     "rust_analyzer.inlayHints.foreground": "#7c6f64",
     "rust_analyzer.inlayHints.background": "#29282800",
-    "rust_analyzer.syntaxTreeBorder": "#a9b665"
+    "rust_analyzer.syntaxTreeBorder": "#d3869b"
   },
   "tokenColors": [
     {
       "name": "Keyword",
       "scope": "keyword, storage.type.function, storage.type.class, storage.type.enum, storage.type.interface, storage.type.property, keyword.operator.new, keyword.operator.expression, keyword.operator.new, keyword.operator.delete, storage.type.extends",
       "settings": {
-        "foreground": "#a9b665"
+        "foreground": "#d3869b"
       }
     },
     {
       "name": "Debug",
       "scope": "keyword.other.debugger",
       "settings": {
-        "foreground": "#a9b665"
+        "foreground": "#d3869b"
       }
     },
     {
@@ -640,7 +640,7 @@
       "name": "Markdown heading1",
       "scope": "heading.1.markdown, markup.heading.setext.1.markdown",
       "settings": {
-        "foreground": "#a9b665",
+        "foreground": "#d3869b",
         "fontStyle": "bold"
       }
     },
@@ -777,7 +777,7 @@
       "name": "Markdown list mark",
       "scope": "punctuation.definition.list.begin.markdown",
       "settings": {
-        "foreground": "#a9b665"
+        "foreground": "#d3869b"
       }
     },
     {
@@ -821,7 +821,7 @@
       "name": "reStructuredText red",
       "scope": "support.directive.restructuredtext",
       "settings": {
-        "foreground": "#a9b665"
+        "foreground": "#d3869b"
       }
     },
     {
@@ -842,7 +842,7 @@
       "name": "LaTex red",
       "scope": "support.function.be.latex",
       "settings": {
-        "foreground": "#a9b665"
+        "foreground": "#d3869b"
       }
     },
     {
@@ -933,7 +933,7 @@
       "name": "CSS red",
       "scope": "entity.other.attribute-name.class.css",
       "settings": {
-        "foreground": "#a9b665"
+        "foreground": "#d3869b"
       }
     },
     {
@@ -1045,7 +1045,7 @@
       "name": "JavaScript red",
       "scope": "punctuation.definition.block.tag.jsdoc",
       "settings": {
-        "foreground": "#a9b665"
+        "foreground": "#d3869b"
       }
     },
     {
@@ -1255,7 +1255,7 @@
       "name": "Pug red",
       "scope": "entity.other.attribute-name.class.pug",
       "settings": {
-        "foreground": "#a9b665"
+        "foreground": "#d3869b"
       }
     },
     {
@@ -1297,7 +1297,7 @@
       "name": "C red",
       "scope": "keyword.control.directive.include.c, punctuation.definition.directive.c, keyword.control.directive.pragma.c, keyword.control.directive.line.c, keyword.control.directive.define.c, keyword.control.directive.conditional.c, keyword.control.directive.diagnostic.error.c, keyword.control.directive.undef.c, keyword.control.directive.conditional.ifdef.c, keyword.control.directive.endif.c, keyword.control.directive.conditional.ifndef.c, keyword.control.directive.conditional.if.c, keyword.control.directive.else.c",
       "settings": {
-        "foreground": "#a9b665"
+        "foreground": "#d3869b"
       }
     },
     {
@@ -1332,7 +1332,7 @@
       "name": "C++ red",
       "scope": "keyword.control.directive.include.cpp, punctuation.definition.directive.cpp, keyword.control.directive.pragma.cpp, keyword.control.directive.line.cpp, keyword.control.directive.define.cpp, keyword.control.directive.conditional.cpp, keyword.control.directive.diagnostic.error.cpp, keyword.control.directive.undef.cpp, keyword.control.directive.conditional.ifdef.cpp, keyword.control.directive.endif.cpp, keyword.control.directive.conditional.ifndef.cpp, keyword.control.directive.conditional.if.cpp, keyword.control.directive.else.cpp, storage.type.namespace.definition.cpp, keyword.other.using.directive.cpp, storage.type.struct.cpp",
       "settings": {
-        "foreground": "#a9b665"
+        "foreground": "#d3869b"
       }
     },
     {
@@ -1353,7 +1353,7 @@
       "name": "C# red",
       "scope": "keyword.other.using.cs",
       "settings": {
-        "foreground": "#a9b665"
+        "foreground": "#d3869b"
       }
     },
     {
@@ -1430,7 +1430,7 @@
       "name": "Java red",
       "scope": "keyword.other.import.java, keyword.other.package.java",
       "settings": {
-        "foreground": "#a9b665"
+        "foreground": "#d3869b"
       }
     },
     {
@@ -1458,7 +1458,7 @@
       "name": "Kotlin red",
       "scope": "keyword.other.import.kotlin",
       "settings": {
-        "foreground": "#a9b665"
+        "foreground": "#d3869b"
       }
     },
     {
@@ -1528,7 +1528,7 @@
       "name": "Scala red",
       "scope": "keyword.other.import.scala",
       "settings": {
-        "foreground": "#a9b665"
+        "foreground": "#d3869b"
       }
     },
     {
@@ -1549,7 +1549,7 @@
       "name": "Scala red",
       "scope": "keyword.other.import.groovy, keyword.other.package.groovy, keyword.other.import.static.groovy",
       "settings": {
-        "foreground": "#a9b665"
+        "foreground": "#d3869b"
       }
     },
     {
@@ -1584,7 +1584,7 @@
       "name": "Go red",
       "scope": "keyword.type.go",
       "settings": {
-        "foreground": "#a9b665"
+        "foreground": "#d3869b"
       }
     },
     {
@@ -1815,7 +1815,7 @@
       "name": "Julia red",
       "scope": "keyword.control.import.julia, keyword.control.export.julia",
       "settings": {
-        "foreground": "#a9b665"
+        "foreground": "#d3869b"
       }
     },
     {
@@ -1892,7 +1892,7 @@
       "name": "Erlang red",
       "scope": "keyword.control.directive.erlang, keyword.control.directive.define.erlang",
       "settings": {
-        "foreground": "#a9b665"
+        "foreground": "#d3869b"
       }
     },
     {
@@ -1962,7 +1962,7 @@
       "name": "Perl red",
       "scope": "storage.type.sub.perl, storage.type.declare.routine.perl",
       "settings": {
-        "foreground": "#a9b665"
+        "foreground": "#d3869b"
       }
     },
     {
@@ -1976,7 +1976,7 @@
       "name": "Lisp red",
       "scope": "storage.type.function-type.lisp",
       "settings": {
-        "foreground": "#a9b665"
+        "foreground": "#d3869b"
       }
     },
     {
@@ -2046,7 +2046,7 @@
       "name": "Fish red",
       "scope": "support.function.builtin.fish",
       "settings": {
-        "foreground": "#a9b665"
+        "foreground": "#d3869b"
       }
     },
     {
@@ -2116,7 +2116,7 @@
       "name": "GraphQL red",
       "scope": "keyword.type.graphql",
       "settings": {
-        "foreground": "#a9b665"
+        "foreground": "#d3869b"
       }
     },
     {
@@ -2249,7 +2249,7 @@
       "name": "Diff red",
       "scope": "markup.deleted.diff, punctuation.definition.deleted.diff",
       "settings": {
-        "foreground": "#a9b665"
+        "foreground": "#d3869b"
       }
     },
     {
@@ -2291,7 +2291,7 @@
       "name": "Git red",
       "scope": "entity.name.section.group-title.ini, punctuation.definition.entity.ini",
       "settings": {
-        "foreground": "#a9b665"
+        "foreground": "#d3869b"
       }
     },
     {

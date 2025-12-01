@@ -22,6 +22,16 @@
         "path": "./themes/MonokaiDimmedNew.json"
       },
       {
+        "label": "Bunny",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Bunny.json"
+      },
+      {
+        "label": "Kangaroo",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Kangaroo.json"
+      },
+      {
         "label": "Shark",
         "uiTheme": "vs-dark",
         "path": "./themes/Shark.json"

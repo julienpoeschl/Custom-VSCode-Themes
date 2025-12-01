@@ -25,14 +25,24 @@
   "contributes": {
     "themes": [
       {
-        "label": "Hedgehog (Custom)",
+        "label": "Hedgehog",
         "uiTheme": "vs-dark",
         "path": "./themes/Hedgehog.json"
       },
       {
-        "label": "Monokai Dimmed New (Custom)",
+        "label": "Monokai Dimmed New",
         "uiTheme": "vs-dark",
         "path": "./themes/MonokaiDimmedNew.json"
+      },
+      {
+        "label": "Bunny",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Bunny.json"
+      },
+      {
+        "label": "Kangaroo",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Kangaroo.json"
       },
       {
         "label": "Shark",
