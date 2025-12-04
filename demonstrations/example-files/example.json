@@ -1,0 +1,29 @@
+{
+  "name": "Example Project",
+  "version": "1.0.0",
+  "enabled": true,
+  "items": [
+    {
+      "id": 1,
+      "type": "folder",
+      "children": [
+        { "id": 2, "type": "file", "name": "readme.md" },
+        { "id": 3, "type": "file", "name": "config.json" }
+      ]
+    },
+    {
+      "id": 4,
+      "type": "folder",
+      "children": []
+    }
+  ],
+  "settings": {
+    "theme": "dark",
+    "window": {
+      "width": 1280,
+      "height": 720,
+      "fullscreen": false
+    }
+  },
+  "metadata": null
+}

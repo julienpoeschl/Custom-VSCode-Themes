@@ -1,0 +1,8 @@
+server:
+  host: "localhost"
+  port: 8080
+users:
+  - name: "Alice"
+    admin: true
+  - name: "Bob"
+    admin: false
