@@ -4,7 +4,7 @@
 
 Currently contains the following custom themes:
   1. **Animal themes** (modified version of [Gruvbox Material Dark](https://github.com/sainnhe/gruvbox-material-vscode.git))
-     - Bunny ([Preview]()):
+     - Bunny ([Preview](demonstrations/example-png/bunny)):
        
        *Dark night accompanied by fluffly pink*
      - Hedgehog ([Preview]()):
@@ -13,7 +13,7 @@ Currently contains the following custom themes:
      - Kangaroo ([Preview]()):
     
        *Dark night in the reddish-brown outback*
-     - Shark ([Preview]()):
+     - Shark ([Preview](demonstrations/example-png/shark)):
 
        *Dark coral reef in deep sea for deep focus*
      
