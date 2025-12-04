@@ -3,17 +3,21 @@
 # Themes
 
 Currently contains the following custom themes:
-  1. Hedgehog ([Preview]())
+  1. **Animal themes** (modified version of [Gruvbox Material Dark](https://github.com/sainnhe/gruvbox-material-vscode.git))
+     - Bunny ([Preview]()):
+       
+       *Dark night accompanied by fluffly pink*
+     - Hedgehog ([Preview]()):
 
-     *Dark and cozy featuring green*
+       *Dark and cozy forest ground featuring green*
+     - Kangaroo ([Preview]()):
+    
+       *Dark night in the reddish-brown outback*
+     - Shark ([Preview]()):
 
-  2. Shark ([Preview]())
-
-     *Dark coral reef for deep focus*
-     Currently only a modified version of [Gruvbox Material Dark](https://github.com/sainnhe/gruvbox-material-vscode.git).
+       *Dark coral reef in deep sea for deep focus*
      
-  4. Monokai Dimmed New ([Preview]())
-     
+  1. Monokai Dimmed New ([Preview]())
      *Personalized version of Monokai Dimmed (provided by Microsoft) featuring custom code colors*
 
 &nbsp;
