@@ -1,0 +1,48 @@
+{
+  "name": "custom-vscode-themes",
+  "displayName": "Custom Visual Studio Code Themes",
+  "publisher": "local",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.50.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Hedgehog",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Hedgehog.json"
+      },
+      {
+        "label": "Monokai Dimmed New",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MonokaiDimmedNew.json"
+      },
+      {
+        "label": "Bunny",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Bunny.json"
+      },
+      {
+        "label": "Kangaroo",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Kangaroo.json"
+      },
+      {
+        "label": "Shark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Shark.json"
+      }
+    ]
+  },
+  "license": "MIT",
+  "author": "julienpoeschl",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/julienpoeschl/Custom-VisualStudioCode-Themes.git"
+  },
+  "copyright": "Modified version of the Monokai Dimmed theme originally from Microsoft"
+}
