@@ -32,14 +32,10 @@ async function runBulkSnap() {
     const config = vscode.workspace.getConfiguration("bulkSnap");
 
     let files = config.get("files") || [];
-    let outputFolder = config.get("outputFolder");
 
     // Resolve ${workspaceFolder} variable
     const workspaceFolder = vscode.workspace.workspaceFolders?.[0]?.uri.fsPath;
     if (workspaceFolder) {
-        if (outputFolder && outputFolder.includes("${workspaceFolder}")) {
-            outputFolder = outputFolder.replace("${workspaceFolder}", workspaceFolder);
-        }
         files = files.map(file => 
             file.includes("${workspaceFolder}") ? file.replace("${workspaceFolder}", workspaceFolder) : file
         );
@@ -47,11 +43,6 @@ async function runBulkSnap() {
 
     if (!Array.isArray(files) || files.length === 0) {
         vscode.window.showErrorMessage("bulkSnap.files is empty.");
-        return;
-    }
-
-    if (!outputFolder || !fs.existsSync(outputFolder)) {
-        vscode.window.showErrorMessage("bulkSnap.outputFolder " + outputFolder + " does not exist.");
         return;
     }
 
