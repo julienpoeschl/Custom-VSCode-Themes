@@ -1,0 +1,30 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Bulk CodeSnap: Verify Configuration",
+      "type": "shell",
+      "command": "npm",
+      "args": ["run", "snap", "--prefix", "demonstrations"],
+      "group": {
+        "kind": "build",
+        "isDefault": false
+      },
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "Bulk CodeSnap: Debug Extension (F5 Alternative)",
+      "type": "shell",
+      "command": "code",
+      "args": ["--extensionDevelopmentPath=${workspaceFolder}/demonstrations"],
+      "isBackground": true,
+      "presentation": {
+        "reveal": "silent"
+      }
+    }
+  ]
+}
