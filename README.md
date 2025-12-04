@@ -1,7 +1,7 @@
 # Themes
 
 Currently contains the following custom themes:
-  ## **Animal themes** (modified versions of [Gruvbox Material Dark](https://github.com/sainnhe/gruvbox-material-vscode.git))
+  ## 1. **Animal themes** (modified versions of [Gruvbox Material Dark](https://github.com/sainnhe/gruvbox-material-vscode.git))
    1. Bunny ([all previews](demonstrations/example-png/bunny)):
 
       *Dark night accompanied by fluffly pink*
@@ -15,12 +15,12 @@ Currently contains the following custom themes:
 
       *Dark coral reef in deep sea for deep focus*
 
-## Python
+### Python
 | Bunny | Hedgehog | Kangaroo | Shark |
 |-------|----------|----------|-------|
 | ![](demonstrations/example-png/bunny/example.py.png) | ![](demonstrations/example-png/hedgehog/example.py.png) | ![](demonstrations/example-png/kangaroo/example.py.png) | ![](demonstrations/example-png/shark/example.py.png) |
      
-  ## Monokai Dimmed New ([all previews]()) (personalized version of Monokai Dimmed (provided by Microsoft) featuring custom code colors)
+  ## 2. **Monokai Dimmed New** (personalized version of Monokai Dimmed (provided by Microsoft))
 
 &nbsp;
 
