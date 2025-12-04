@@ -20,9 +20,7 @@ Currently contains the following custom themes:
 |-------|----------|----------|-------|
 | ![](demonstrations/example-png/bunny/example.py.png) | ![](demonstrations/example-png/hedgehog/example.py.png) | ![](demonstrations/example-png/kangaroo/example.py.png) | ![](demonstrations/example-png/shark/example.py.png) |
      
-  ## 2. Monokai Dimmed New ([all previews]())
-  
-  *Personalized version of Monokai Dimmed (provided by Microsoft) featuring custom code colors*
+  ## Monokai Dimmed New ([all previews]()) (personalized version of Monokai Dimmed (provided by Microsoft) featuring custom code colors)
 
 &nbsp;
 
