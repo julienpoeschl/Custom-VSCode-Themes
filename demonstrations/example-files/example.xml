@@ -1,7 +1,0 @@
-<user id="42">
-    <name>Alice</name>
-    <roles>
-        <role>admin</role>
-        <role>editor</role>
-    </roles>
-</user>

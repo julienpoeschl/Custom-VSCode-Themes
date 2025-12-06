@@ -1,7 +1,0 @@
-example-files/**
-example-png/**
-../**
-node_modules/**
-.vscode/**
-.gitignore
-vsc-extension-quickstart.md
