@@ -1,24 +1,26 @@
-🚧 Work in progress
-
 # Themes
 
 Currently contains the following custom themes:
-  1. **Animal themes** (modified version of [Gruvbox Material Dark](https://github.com/sainnhe/gruvbox-material-vscode.git))
-     - Bunny ([Preview](demonstrations/example-png/bunny)):
-       
-       *Dark night accompanied by fluffly pink*
-     - Hedgehog ([Preview]()):
+  ## 1. **Animal themes** (modified versions of [Gruvbox Material Dark](https://github.com/sainnhe/gruvbox-material-vscode.git))
+   1. Bunny ([all previews](demonstrations/example-png/bunny)):
 
-       *Dark and cozy forest ground featuring green*
-     - Kangaroo ([Preview]()):
-    
-       *Dark night in the reddish-brown outback*
-     - Shark ([Preview](demonstrations/example-png/shark)):
-
-       *Dark coral reef in deep sea for deep focus*
+      *Dark night accompanied by fluffly pink*
+   3. Hedgehog ([all previews]()):
      
-  1. Monokai Dimmed New ([Preview]())
-     *Personalized version of Monokai Dimmed (provided by Microsoft) featuring custom code colors*
+      *Dark and cozy forest ground featuring green*
+   3. Kangaroo ([all previews]()):
+
+      *Dark night in the reddish-brown outback*
+   5. Shark ([all previews](demonstrations/example-png/shark)):
+
+      *Dark coral reef in deep sea for deep focus*
+
+### Python
+| Bunny | Hedgehog | Kangaroo | Shark |
+|-------|----------|----------|-------|
+| ![](demonstrations/example-png/bunny/example.py.png) | ![](demonstrations/example-png/hedgehog/example.py.png) | ![](demonstrations/example-png/kangaroo/example.py.png) | ![](demonstrations/example-png/shark/example.py.png) |
+     
+  ## 2. **Monokai Dimmed New** (personalized version of Monokai Dimmed (provided by Microsoft))
 
 &nbsp;
 
