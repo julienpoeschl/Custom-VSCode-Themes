@@ -1,5 +1,5 @@
 {
-  "name": "custom-vscode-themes",
+  "name": "themes",
   "displayName": "Custom Visual Studio Code Themes",
   "publisher": "local",
   "version": "1.0.0",
@@ -14,27 +14,27 @@
       {
         "label": "Hedgehog",
         "uiTheme": "vs-dark",
-        "path": "./themes/Hedgehog.json"
+        "path": "./theme-files/animals/Hedgehog.json"
       },
       {
         "label": "Monokai Dimmed New",
         "uiTheme": "vs-dark",
-        "path": "./themes/MonokaiDimmedNew.json"
+        "path": "./theme-files/MonokaiDimmedNew.json"
       },
       {
         "label": "Bunny",
         "uiTheme": "vs-dark",
-        "path": "./themes/Bunny.json"
+        "path": "./theme-files/animals/Bunny.json"
       },
       {
         "label": "Kangaroo",
         "uiTheme": "vs-dark",
-        "path": "./themes/Kangaroo.json"
+        "path": "./theme-files/animals/Kangaroo.json"
       },
       {
         "label": "Shark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Shark.json"
+        "path": "./theme-files/animals/Shark.json"
       }
     ]
   },
